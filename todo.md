@@ -1,0 +1,3 @@
+- Support for more than one server
+- Add Pause Command
+- Show Queue Command
